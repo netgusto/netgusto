@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I'm Jerome. I'm a Staff Software Engineer at Algolia. Pronouns are he/him/his.
+These are some of the side projects I'm doing.
+
 <!--
 **netgusto/netgusto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
