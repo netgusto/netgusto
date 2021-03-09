@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Jerome. I'm a Staff Software Engineer at Algolia. Pronouns are he/him/his.
+I'm Jerome. I'm a Staff Software Engineer at Algolia.
 
 These are some of the side projects I'm working on.
 
