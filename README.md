@@ -2,7 +2,7 @@
 
 I'm Jerome. I'm a Senior Software Engineer @cloudflare working on our Vector DB Vectorize.
 
-These are some of the side projects I'm working on.
+These are some of the side projects I'm working on / have been working on in the past. 
 
 <!--
 **netgusto/netgusto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
