@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Jerome. I'm a Software Engineer.
+I'm Jerome. I'm a Senior Software Engineer @cloudflare working on our Vector DB Vectorize.
 
 These are some of the side projects I'm working on.
 
